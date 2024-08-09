@@ -1,4 +1,5 @@
 # chavi-ddis-ubuntu
+https://github.com/jmGithub2021/CHAVI3DS/tree/main
 
 ## mysql install
 Before install mysql check already install or not ?
@@ -78,6 +79,8 @@ java --module-path "/media/sougata/New Volume/D drive/sougata/CHAVI3DS/javafx-sd
 
 Boom !! it open the login page
 ![image](https://github.com/user-attachments/assets/b4a3af9d-ea30-4312-a648-70717d09fda5)
+
+
 username: admin
 password: 1234
 open the System administrator page enter the name, email and the other information as well as user type **User**
